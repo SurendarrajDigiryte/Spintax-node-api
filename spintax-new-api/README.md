@@ -1,0 +1,1 @@
+# This api is for generating a spintax sentences
